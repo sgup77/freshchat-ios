@@ -1,7 +1,7 @@
 Freshchat iOS SDK
 ===============
 
-Your business lives on mobile. Your support should too. In-app chat, real-time engagement and FAQ for your apps. [hotline.io](http://www.freshchat.com) by [Freshworks](https://www.freshworks.com)
+Modern messaging software that your sales and customer engagement teams will love. [www.freshchat.com](http://www.freshchat.com) by [Freshworks](https://www.freshworks.com)
 
 ## Installation
 Freshchat iOS SDK can be integrated using cocoapods by specifying the following in your podfile:
