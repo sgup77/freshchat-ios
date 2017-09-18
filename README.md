@@ -1,7 +1,7 @@
 Freshchat iOS SDK
-===============
+=================
 
-Modern messaging software that your sales and customer engagement teams will love. [www.freshchat.com](http://www.freshchat.com) by [Freshworks](https://www.freshworks.com)
+"Modern messaging software that your sales and customer engagement teams will love." [Freshchat](http://www.freshchat.com) by [Freshworks](https://www.freshworks.com).
 
 ## Installation
 Freshchat iOS SDK can be integrated using cocoapods by specifying the following in your podfile:
@@ -16,9 +16,9 @@ end
 ```
 
 #### Samples
-[Objective-C](https://github.com/freshdesk/freshchat-ios/tree/canary/Sample/ObjectiveCSample)
+[Objective-C](https://github.com/freshdesk/freshchat-ios/tree/master/Sample/ObjectiveCSample)
 
-[Swift](https://github.com/freshdesk/freshchat-ios/tree/canary/Sample/SwiftSample)
+[Swift](https://github.com/freshdesk/freshchat-ios/tree/master/Sample/SwiftSample)
 
 
 ## Documentation
