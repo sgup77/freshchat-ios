@@ -1,24 +1,24 @@
 {
   "name": "FreshchatSDK",
-  "version": "1.0.0",
-  "summary": "Freshchat - iOS SDK - Modern messaging software that your sales and customer engagement teams will love.",
-  "description": "Live chat software for your sales and support teams. Modern messaging software that your sales and customer engagement teams will love.",
-  "homepage": "http://www.freshchat.com",
+  "version": "1.3.0",
+  "summary": "Freshchat iOS SDK - Modern messaging software that your sales and customer engagement teams will love.",
+  "description": "Modern messaging software that your sales and customer engagement teams will love.",
+  "homepage": "https://www.freshchat.com",
   "license": {
     "type": "Commercial",
     "file": "FreshchatSDK/LICENSE",
-    "text": "See http://www.freshchat.com/terms"
+    "text": "See https://www.freshworks.com/terms"
   },
   "authors": {
     "Freshdesk": "support@freshchat.com"
   },
   "social_media_url": "https://twitter.com/freshchatapp",
   "platforms": {
-    "ios": "7.0"
+    "ios": "8.0"
   },
   "source": {
     "git": "https://github.com/freshdesk/freshchat-ios.git",
-    "tag": "v1.0.0"
+    "tag": "v1.3.0"
   },
   "source_files": "FreshchatSDK/*.{h,m}",
   "preserve_paths": "FreshchatSDK/*",
@@ -37,6 +37,7 @@
     "CoreMedia",
     "CoreData",
     "ImageIO",
+    "Photos",
     "SystemConfiguration",
     "Security"
   ],
